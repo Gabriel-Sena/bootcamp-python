@@ -1,0 +1,30 @@
+-int para float: podemos converter um número int para número com ponto flutuante utilizando um construtor ou utilizando a divisão.
+ex usando construtor: preco = 10
+preco = float(preco) 
+
+-float para int: podemos converter um número float para int utilizando um construtor int.
+ex usando construtor: preco = 10.6
+preco = int(preco) 
+
+para manter a parte inteira em uma divisão que resultara em float.
+preco = 10
+print(preco // 2)
+>>>> 5
+
+-numérico para string
+para inserir variáveis dentro da string devemos definir a string, iniciar com "f" e em seguida colocar entre {} o nome da variável que quero concatenar.
+ex: 
+preco = 10.50
+idade = 28
+texto = f"idade {idade} preco{preco}"
+print(texto)
+>>>>idade 28 preco 20.5
+
+-string para número
+utilizar os construtores numéricos
+ex: preco = "10.50"
+idade = "28"
+print(float(preco))
+print(int(preco))
+
+type = pra saber o tipo da classe
