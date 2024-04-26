@@ -1,4 +1,0 @@
-Serve para exibir os resultados sem precisar colocar "print"
-Da pra iniciar apenas digitando "python" no teminal ou executando "python -i (nome do arquivo).py"
-
-Modulo help: consultar os métodos de uma documentação
