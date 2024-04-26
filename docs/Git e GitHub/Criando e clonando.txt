@@ -1,0 +1,4 @@
+mkdir: comando para criar um novo diretório
+cd: pra poder entrar em algum repositório
+git init: para "transformar" em um repositório git
+git clone "link de clone " "nome que quero na minha máquina" ex: git clone https://github.com/Gabriel-Sena/hello-word.git repo-clonado
