@@ -1,0 +1,2 @@
+É uma plataforma de hospedagen de código para controle de versão com Git.
+É o servidor que hospeda meu repositório remoto

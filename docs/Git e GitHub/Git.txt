@@ -1,0 +1,9 @@
+É um sistema de controle de versão distribuído;
+Gratuito e de código aberto;
+Possui ramificações e fusões eficientes;
+É leve e rápido.
+
+git clone: comando para clonar um repositório Git existente para um novo diretório (pasta) local;
+git commit: salvar as alterações no repositório;
+git pull: busca e mescla as alterações do repositório remoto para o repositório local;
+git push: envia as alterações do repositório local para o repositório remoto.
