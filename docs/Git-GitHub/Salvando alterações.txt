@@ -1,4 +1,4 @@
 git status: responsável por mostrar o status da área de preparação
 gat add: para adicionar o doc ao ambiente de preparação
 
-.gitignor: serve para colocar arquivos que eu não desejo salvar
+.gitignore: serve para colocar arquivos que eu não desejo salvar
