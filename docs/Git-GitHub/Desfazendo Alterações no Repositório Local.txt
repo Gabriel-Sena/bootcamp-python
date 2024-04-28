@@ -1,0 +1,11 @@
+-rm -rf .git: pra remover um git init de alguma pasta;
+-git restore (nome do arquivo): retorna para o último estado de um arquivo;
+-git commit --amend -m"...": serve para alterar a mensagem do último commit;
+-git reset --soft (hash):coloca os commits anteriores que eu indiquei na área de preparação;
+-git reset --mixed (hash): comportamento padrão do git reset, pega os arquivos do commit que foi indicado e adiciona na árvore de trabalho como untracek file (arquivos não reconhecidos pelo git);
+-git reset --hard (hash): ignora os arquivos posteriores ao commit do hash e apaga eles do repositório;
+
+-para apagar arquivos:
+    git reset (nome da pasta/nome do arquivo)
+ou
+    git restore --staged (nome da pasta/nome do arquivo)
