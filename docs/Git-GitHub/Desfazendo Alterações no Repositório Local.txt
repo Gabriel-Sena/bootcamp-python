@@ -1,0 +1,2 @@
+rm -rf .git: pra remover um git init de alguma pasta;
+git restore (nome do arquivo): retorna para o último estado de um arquivo
