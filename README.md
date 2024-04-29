@@ -1,4 +1,4 @@
-# DIO | Bootcamp Coding The Future Vivo - Python AI Backend Developer na DIO
+# DIO | Bootcamp Coding The Future Vivo - Python AI Backend Developer
 
 Repositório para armazenar códigos e documentos do que entendi nas aulas do bootcamp de python da [DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer).
 
