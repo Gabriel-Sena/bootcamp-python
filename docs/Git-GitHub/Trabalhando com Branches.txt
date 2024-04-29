@@ -1,8 +1,10 @@
 Branche: é uma ramificação do projeto.
 
-git checkout -b (nome da branche): troca da branche que eu estou para a branche que eu mecionei no comando;
-git checkout (nome da branche): redireciona para a branche mencionada;
-git branche -v: lista o útimo commit de cada branche;
-git merge (nome da branche que quero mesclar): mescla a branche que mencionei com a branche que estou;
-git branche: lista as branches que tenho, o "*" sinaliza a branche que estou no momento;
-git branche -d (nome da branche): serve para deletar a branche que mencionei no comando;
+-Criando e mexendo com branches
+    git checkout -b (nome da branche): cria um branche e troca da branche que eu estou para a branche que eu mecionei no comando;
+    git checkout (nome da branche): redireciona para a branche mencionada;
+    git branche -v: lista o útimo commit de cada branche;
+    git merge (nome da branche que quero mesclar): mescla a branche que mencionei com a branche que estou;
+    git branche: lista as branches que tenho, o "*" sinaliza a branche que estou no momento;
+    git branche -d (nome da branche): serve para deletar a branche que mencionei no comando;
+    

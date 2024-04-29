@@ -1,0 +1,13 @@
+-git fetch
+    git fetch origin (nome da branche): baixar as alterações do repositório remoto sem mesclar com o repositório local;
+    git diff main origin/main(nome da branche que quer ver a diferença): mostra a diferença entre as branches mencionadas no comando;
+    git merge origin/main: trazer as alterações do repositório remoto para o repositório local.
+
+-Clonando uma branche específica
+    git clone (link do repositório) --branche (nome da branche que quero clonar) --single-branche: clonar uma branche específica;
+
+-git stach
+    git stach: arquiva uma modificação que fiz;
+    git stach list: lista as modificações arquivadas;
+    git stach pop: para trazer as alterações e excluir a alteração mais recente da lista;
+    git stach apply: para manter a modificação na lista para um uso posterior.
