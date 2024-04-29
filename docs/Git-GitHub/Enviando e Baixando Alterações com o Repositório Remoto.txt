@@ -1,0 +1,5 @@
+-git remote add origin (link do repositório): para coonectar o repositório remoto com o repositório local;
+-git push -u origin main: comando responsável por estar enviando as alterações do repositório local para o repositório remoto;
+-git pull: puxa as alterações do repositório remoto e mescla com o que tenho no repositório local.
+
+-para acessar o editor online do github, basta entrar no repositório e apertar a tecla de atalho ".", abre um editor semelhante ao vscode
