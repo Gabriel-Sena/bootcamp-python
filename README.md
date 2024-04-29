@@ -11,5 +11,5 @@ Repositório para armazenar códigos e documentos do que entendi nas aulas do bo
 
 | Aulas | Doc |
 |-------|-----|
-| 🐍Conhecendo o Python | [O que aprendi](https://github.com/Gabriel-Sena/bootcamp-python/tree/main/docs/Conhecendo%20o%20Python) |
-| 🔃Git e GitHub | [O que aprendi](https://github.com/Gabriel-Sena/bootcamp-python/tree/main/docs/Git%20e%20GitHub) |
+| 🐍Conhecendo o Python | [O que aprendi](https://github.com/Gabriel-Sena/bootcamp-python/tree/main/docs/Conhecendo-Python) |
+| 🔃Git e GitHub | [O que aprendi](https://github.com/Gabriel-Sena/bootcamp-python/tree/main/docs/Git-GitHub) |
