@@ -2,12 +2,12 @@
 
 Repositório para armazenar códigos e documentos do que entendi nas aulas do bootcamp de python da [DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer).
 
-##📚 Documentações
+## 📚 Documentações
 - [Documentação Python](https://wiki.python.org.br/DocumentacaoPython)
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
 
-##💻Resumo das Aulas
+## 💻Resumo das Aulas
 
 | Aulas | Doc |
 |-------|-----|
