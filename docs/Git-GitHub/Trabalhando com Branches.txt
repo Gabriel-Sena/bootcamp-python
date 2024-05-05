@@ -1,10 +1,10 @@
-Branche: é uma ramificação do projeto.
+Branch: é uma ramificação do projeto.
 
--Criando e mexendo com branches
-    git checkout -b (nome da branche): cria um branche e troca da branche que eu estou para a branche que eu mecionei no comando;
-    git checkout (nome da branche): redireciona para a branche mencionada;
-    git branche -v: lista o útimo commit de cada branche;
-    git merge (nome da branche que quero mesclar): mescla a branche que mencionei com a branche que estou;
-    git branche: lista as branches que tenho, o "*" sinaliza a branche que estou no momento;
-    git branche -d (nome da branche): serve para deletar a branche que mencionei no comando;
+-Criando e mexendo com branchs
+    git checkout -b (nome da branch): cria um branch e troca da branch que eu estou para a branch que eu mecionei no comando;
+    git checkout (nome da branch): redireciona para a branch mencionada;
+    git branch -v: lista o útimo commit de cada branch;
+    git merge (nome da branch que quero mesclar): mescla a branch que mencionei com a branch que estou;
+    git branch: lista as branches que tenho, o "*" sinaliza a branch que estou no momento;
+    git branch -d (nome da branch): serve para deletar a branch que mencionei no comando;
     
