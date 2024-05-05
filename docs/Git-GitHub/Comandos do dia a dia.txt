@@ -1,5 +1,5 @@
 -git fetch
-    git fetch origin (nome da branche): baixar as alterações do repositório remoto sem mesclar com o repositório local;
+    git fetch origin (nome da branch): baixar as alterações do repositório remoto sem mesclar com o repositório local;
     git diff main origin/main(nome da branche que quer ver a diferença): mostra a diferença entre as branches mencionadas no comando;
     git merge origin/main: trazer as alterações do repositório remoto para o repositório local.
 
